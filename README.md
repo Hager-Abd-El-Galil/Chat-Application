@@ -10,8 +10,7 @@
   - JavaScript
   - Node Js
 
-## Video
-Click [Here](https://user-images.githubusercontent.com/81237428/224121109-6e82e358-57ec-454a-839b-a9746bd151e5.mp4)
+## [Demo Video](https://user-images.githubusercontent.com/81237428/224121109-6e82e358-57ec-454a-839b-a9746bd151e5.mp4)
 
 
 
