@@ -1,6 +1,6 @@
 # Chat-Application
 
-#### :calling: Click [Here](https://chat-application-25al.onrender.com/) to Join Chat 
+<h2> :calling: Click [Here](https://chat-application-25al.onrender.com/) to Join Chat </h2>
 ![image](https://user-images.githubusercontent.com/81237428/224131133-2290ddbf-ccbe-45e2-a3c7-5dc036c67cba.png)
 
 ## Description
